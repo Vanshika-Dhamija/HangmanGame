@@ -28,6 +28,8 @@ package Hangman {
         "verification",  "citation",     "unusual",       "resource",
         "analysis",      "license",      "comedy",        "screenplay",
         "variation",     "equal",        "approximately", "segment",
+        "class",         "railroad",     "gas",           "publisher",
+        "year",          "modest",       "convention",    "governor",
     );
 
 
